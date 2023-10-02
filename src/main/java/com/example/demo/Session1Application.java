@@ -9,7 +9,7 @@ public class Session1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Session1Application.class, args);
 	
-		System.out.println("Welcome");
+		System.out.println("Welcome to application");
 	}
 
 }
